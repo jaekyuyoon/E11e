@@ -1,4 +1,4 @@
-frequency(kHZ);phase shift(microseconds)
+"frequency";"phase shift"
 0.125;1980
 0.3;620
 0.4;392
